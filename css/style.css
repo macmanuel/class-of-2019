@@ -1,5 +1,9 @@
 header {
   background: linear-gradient(30deg, #1177b3, #d109b6);
+<<<<<<< HEAD
+=======
+  border-radius: 3px;
+>>>>>>> master
 }
 #navbar {
   color: white;
@@ -11,7 +15,10 @@ header {
 #navbar .logo {
   float: left;
   padding-top: 20px;
+<<<<<<< HEAD
   padding-left: 50px;
+=======
+>>>>>>> master
 }
 #navbar ul {
   float: right;
@@ -24,8 +31,11 @@ header {
   display: block;
   padding: 20px;
   text-align: center;
+<<<<<<< HEAD
   text-decoration: none;
   padding-right: 50px;
+=======
+>>>>>>> master
 }
 .banner {
   text-align: center;
@@ -44,7 +54,11 @@ header {
   width: 50%;
   padding: 9px;
   border: #ddd 1px solid;
+<<<<<<< HEAD
   border-radius: 0.5em;
+=======
+  border-radius: 4px;
+>>>>>>> master
 }
 .btn {
   font-size: 18px;
@@ -62,5 +76,8 @@ form {
   justify-content: center;
   border-radius: 4px;
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> master
